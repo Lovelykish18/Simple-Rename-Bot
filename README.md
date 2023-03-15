@@ -18,7 +18,7 @@
 
 ### Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrMKN/Simple-Rename-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrM https://heroku.com/deploy?template=https://github.com/Lovelykish18/Simple-Rename-Bot KN/Simple-Rename-Bot)
 
 ## BotFather Command
 ```
